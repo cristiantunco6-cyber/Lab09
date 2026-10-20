@@ -59,4 +59,5 @@ dependencies {
     implementation("io.coil-kt:coil-compose:2.2.2")
     implementation(libs.androidx.navigation.runtime.ktx)
     implementation(libs.androidx.navigation.compose)
+    implementation("androidx.compose.material:material-icons-core")
 }
